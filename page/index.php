@@ -104,12 +104,12 @@
                         <div class="profile-header">&nbsp;</div>
                         <div class="profile-body">
                             <div class="image-area">
-                                <img src="assets/images/user-lg.jpg" alt="AdminBSB - Profile Image" />
+                                <img src="assets/images/user-lg.PNG" alt="AdminBSB - Profile Image" />
                             </div>
                             <div class="content-area">
-                                <h3>PAUD Matahari</h3>
-                                <p>Desa Dilem</p>
-                                <p>Negeri</p>
+                                <h3>Darul Mushaf </br>Lil Athfaal</h3>
+                                
+                                <p>Kota Palopo</p>
                             </div>
                         </div>
                         <div class="profile-footer">
